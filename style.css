@@ -1,0 +1,12 @@
+.overlay{
+    margin-top: -300px;
+    top: 30%
+}
+
+#row{
+    display: flex;
+    margin-left: 50px;
+}
+.row1{
+    display: flex;
+}
